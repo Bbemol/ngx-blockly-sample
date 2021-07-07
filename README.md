@@ -1,6 +1,6 @@
 # NgxBlocklySample
 
-This repository is an example of using ngx-blockly, an angular wrapper around google's blockly library.
+This repository is a simple example of using ngx-blockly, an angular wrapper around google's blockly library. It includes a custom block example.
 
 NGX Blockly repository: [ngx-blockly](https://github.com/roroettg/ngx-blockly)
 Follow their steps if you want it to work.
